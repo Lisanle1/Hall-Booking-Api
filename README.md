@@ -1,6 +1,6 @@
 # Hall-Booking-Api
 
-Link: 
+Link: https://shielded-basin-78653.herokuapp.com
 
 Method - {POST} - to create rooms
 /api/create/room -  { roomId: "", roomName: "", no_of_seats: "", amenities: "", price_per_hour: "" };
